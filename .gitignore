@@ -1,0 +1,5 @@
+.remote
+node_modules
+.DS_Store
+.textlintcache
+.cache

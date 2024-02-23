@@ -1,0 +1,22 @@
+{
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "@proofdict/proofdict": {
+      "dictURL": "https://azu.github.io/proof-dictionary/"
+    },
+    "preset-ja-spacing": {
+      "ja-space-around-code": {
+        "after": true,
+        "before": true
+      }
+    },
+    "preset-ja-technical-writing": {
+      "max-kanji-continuous-len": false,
+      "no-exclamation-question-mark": false,
+      "no-mix-dearu-desumasu": false,
+      "sentence-length": false
+    }
+  }
+}

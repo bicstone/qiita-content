@@ -1,0 +1,39 @@
+{
+  "name": "qiita-content",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Content for Qiita by Oishi Takanori (Public)",
+  "scripts": {
+    "lint": "npm run f -- --check && npm run m && npm run t:cache",
+    "lint:fix": "npm run f -- --write && npm run m -- --fix && npm run t -- --fix && npm run t:cache",
+    "t": "textlint ./public/**/*.md",
+    "t:cache": "textlint --cache ./public/**/*.md",
+    "m": "markdownlint-cli2 ./public/**/*.md",
+    "f": "prettier --cache ./public/**/*.md",
+    "qiita": "qiita",
+    "postinstall": "husky",
+    "preinstall": "npx only-allow npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bicstone/qiita-content.git"
+  },
+  "author": "Oishi Takanori",
+  "license": "CC0-1.0",
+  "homepage": "https://github.com/bicstone/qiita-content#readme",
+  "dependencies": {
+    "@proofdict/textlint-rule-proofdict": "3.1.2",
+    "@qiita/qiita-cli": "1.4.0",
+    "husky": "9.0.11",
+    "markdownlint": "0.33.0",
+    "markdownlint-cli2": "0.12.1",
+    "prettier": "3.2.5",
+    "textlint": "14.0.3",
+    "textlint-filter-rule-comments": "1.2.2",
+    "textlint-rule-preset-ja-spacing": "2.3.0",
+    "textlint-rule-preset-ja-technical-writing": "10.0.1"
+  },
+  "volta": {
+    "node": "20.11.1"
+  }
+}
