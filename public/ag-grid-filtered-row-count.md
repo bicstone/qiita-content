@@ -1,13 +1,13 @@
 ---
-title: "AG-Grid でフィルターされた後の件数をカウントする方法"
+title: AG-Gridでフィルターされた後の件数をカウントする方法
 tags:
-  - "Programming"
-  - "React"
-  - "AG Grid"
-  - "TypeScript"
-  - "JavaScript"
+  - JavaScript
+  - プログラミング
+  - TypeScript
+  - React
+  - AG-Grid
 private: true
-updated_at: ""
+updated_at: null
 id: null
 organization_url_name: null
 slide: false
@@ -17,10 +17,6 @@ ignorePublish: false
 AG-Gridで、フィルター後の件数を取得する方法を解説します。
 
 (React版v28を使用しています。)
-
-:::note
-この記事は2022/12/12に個人ブログで公開した記事を転載したものです。
-:::
 
 ## フィルター後の件数を取得する関数がない
 
@@ -101,3 +97,7 @@ export const DataGrid = (): JSX.Element => {
 ## まとめ
 
 AG-Gridでフィルター後の件数を取得できました。なんとなく辛みがあるので、AG-Gridに実装してほしいです。
+
+:::note
+この記事は2022/12/12に個人ブログで公開した記事を転載したものです。
+:::
