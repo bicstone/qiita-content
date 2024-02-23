@@ -20,7 +20,7 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT_CHECKOUT }}
           fetch-depth: 0
-      - run: qiita publish --all
+      - run: npm run qiita publish --all
         env:
           QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
       - run: |
