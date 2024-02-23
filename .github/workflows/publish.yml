@@ -6,9 +6,6 @@ on:
       - main
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: false
@@ -21,6 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GH_PAT_CHECKOUT }}
           fetch-depth: 0
       - uses: increments/qiita-cli/actions/publish@v1
         with:
