@@ -18,7 +18,9 @@ AG-Gridで、フィルター後の件数を取得する方法を解説します�
 
 (React版v28を使用しています。)
 
-※ この記事は2022/12/12に個人ブログで公開した記事を転載したものです。
+:::note
+この記事は2022/12/12に個人ブログで公開した記事を転載したものです。
+:::
 
 ## フィルター後の件数を取得する関数がない
 
@@ -35,6 +37,8 @@ https://github.com/ag-grid/ag-grid/blob/fc77919c164fb5bcd66a8b2897b20c318f5dd58e
 ## サンプル
 
 Status barの実装を参考に実装してみました。
+
+https://codesandbox.io/embed/ag-grid-filtered-row-count-s0nocs?&theme=light&view=preview
 
 ```tsx
 import { AgGridReact } from "ag-grid-react";
@@ -93,8 +97,6 @@ export const DataGrid = (): JSX.Element => {
   );
 };
 ```
-
-https://codesandbox.io/embed/ag-grid-filtered-row-count-s0nocs?&theme=light&view=preview
 
 ## まとめ
 
