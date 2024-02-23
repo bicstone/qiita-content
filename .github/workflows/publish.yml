@@ -20,7 +20,12 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT_CHECKOUT }}
           fetch-depth: 0
-      - uses: increments/qiita-cli/actions/publish@v1
-        with:
-          qiita-token: ${{ secrets.QIITA_TOKEN }}
-          root: "."
+      - run: qiita publish --all
+        env:
+          QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
+      - run: |
+          git add ./public/*
+          if ! git diff --staged --exit-code --quiet; then
+            git commit -m 'Updated by qiita-cli'
+            git push --force
+          fi
