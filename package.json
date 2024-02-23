@@ -6,10 +6,10 @@
   "scripts": {
     "lint": "npm run f -- --check && npm run m && npm run t:cache",
     "lint:fix": "npm run f -- --write && npm run m -- --fix && npm run t -- --fix && npm run t:cache",
-    "t": "textlint ./articles/**/*.md",
-    "t:cache": "textlint --cache ./articles/**/*.md",
-    "m": "markdownlint-cli2 ./articles/**/*.md",
-    "f": "prettier --cache ./articles/**/*.md",
+    "t": "textlint ./public/**/*.md",
+    "t:cache": "textlint --cache ./public/**/*.md",
+    "m": "markdownlint-cli2 ./public/**/*.md",
+    "f": "prettier --cache ./public/**/*.md",
     "qiita": "qiita",
     "postinstall": "husky",
     "preinstall": "npx only-allow npm"
