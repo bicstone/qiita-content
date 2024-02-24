@@ -25,9 +25,10 @@ jobs:
           node-version-file: ".node-version"
           cache: "npm"
       - run: npm ci
-      - run: npm run qiita publish --all
+      - run: npx qiita publish --all
         env:
           QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
+      - run: npm run lint:fix
       - run: |
           git add ./public/*
           if ! git diff --staged --exit-code --quiet; then

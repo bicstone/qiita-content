@@ -10,7 +10,6 @@
     "t:cache": "textlint --cache ./public/**/*.md",
     "m": "markdownlint-cli2 ./public/**/*.md",
     "f": "prettier --cache ./public/**/*.md",
-    "qiita": "qiita",
     "postinstall": "husky",
     "preinstall": "npx only-allow npm"
   },
