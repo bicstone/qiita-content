@@ -1,8 +1,8 @@
 ---
 title: Reactのアクセシビリティ改善に役立つユニークIDの生成
 tags:
-  - "Programming"
-  - "React"
+  - Programming
+  - React
   - testing-library
   - useId
   - アクセシビリティ
