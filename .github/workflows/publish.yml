@@ -32,8 +32,8 @@ jobs:
       - run: |
           git add ./public/*
           if ! git diff --staged --exit-code --quiet; then
-            git config --global user.name 'bicstone'
-            git config --global user.email '47806818+bicstone@users.noreply.github.com'
+            git config --global user.name 'github-actions[bot]'
+            git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git commit -m 'Updated by qiita-cli'
             git push --force
           fi
