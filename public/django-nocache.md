@@ -1,13 +1,13 @@
 ---
 title: Djangoで全ページキャッシュ禁止にする方法
 tags:
-  - Programming
   - Python
-  - django
-  - Cache-Control
+  - Django
+  - プログラミング
+  - cache-Control
 private: false
-updated_at: ""
-id: null
+updated_at: "2024-02-26T22:12:15+09:00"
+id: 77930ded65dbfa5a1344
 organization_url_name: null
 slide: false
 ignorePublish: false
