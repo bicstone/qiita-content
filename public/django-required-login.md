@@ -1,13 +1,13 @@
 ---
 title: Djangoでログイン必須サイトにする方法
 tags:
-  - "Programming"
-  - "Python"
-  - "django"
+  - Python
+  - Django
+  - プログラミング
   - 認証
 private: false
-updated_at: ""
-id: null
+updated_at: "2024-02-26T22:14:21+09:00"
+id: b1b45ec1de34f74d8a4b
 organization_url_name: null
 slide: false
 ignorePublish: false
