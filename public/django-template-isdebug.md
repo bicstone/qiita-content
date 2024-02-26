@@ -1,12 +1,12 @@
 ---
 title: Djangoのテンプレートでデバッグモードを判定する
 tags:
-  - "Programming"
-  - "Python"
-  - "django"
+  - Python
+  - Django
+  - プログラミング
 private: false
-updated_at: ""
-id: null
+updated_at: "2024-02-26T22:19:26+09:00"
+id: adf1d31d47e31fbfe215
 organization_url_name: null
 slide: false
 ignorePublish: false
