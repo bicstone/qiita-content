@@ -1,14 +1,14 @@
 ---
-title: "Vagrant(VirtualBox)でディスクアクセスが遅い問題の対処法"
+title: Vagrant(VirtualBox)でディスクアクセスが遅い問題の対処法
 tags:
-  - "Programming"
-  - "PHP"
-  - "Laravel"
-  - "Vagrant"
-  - "Windows"
+  - PHP
+  - Windows
+  - プログラミング
+  - Vagrant
+  - Laravel
 private: false
-updated_at: ""
-id: null
+updated_at: "2024-03-02T15:27:57+09:00"
+id: 5e07bd7b29c8c95721f4
 organization_url_name: null
 slide: false
 ignorePublish: false

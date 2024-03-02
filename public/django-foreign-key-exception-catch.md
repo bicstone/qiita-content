@@ -1,12 +1,12 @@
 ---
 title: Djangoで削除時に外部キー制約によって例外が発生する問題の対処法
 tags:
-  - "Programming"
-  - "Python"
-  - "django"
+  - Python
+  - Django
+  - プログラミング
 private: false
-updated_at: ""
-id: null
+updated_at: "2024-03-02T15:27:56+09:00"
+id: 9831638a13754b949145
 organization_url_name: null
 slide: false
 ignorePublish: false
