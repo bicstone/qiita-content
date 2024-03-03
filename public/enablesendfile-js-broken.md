@@ -7,7 +7,7 @@ tags:
   - Vagrant
   - webpack
 private: false
-updated_at: "2024-03-03T20:26:37+09:00"
+updated_at: "2024-03-03T20:43:04+09:00"
 id: 16ccb0350a16ab6b42aa
 organization_url_name: null
 slide: false
