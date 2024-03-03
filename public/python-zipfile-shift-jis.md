@@ -1,14 +1,14 @@
 ---
-title: "PythonでアーカイブしたZIPファイル名をShift-JISにする"
+title: PythonでアーカイブしたZIPファイル名をShift-JISにする
 tags:
-  - "Programming"
-  - "Python"
-  - "Windows"
-  - "Zip"
-  - "Shift-JIS"
+  - Python
+  - Windows
+  - プログラミング
+  - zip
+  - Shift-JIS
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-03T20:24:24+09:00"
+id: 14ef11e80cf8d36004c2
 organization_url_name: null
 slide: false
 ignorePublish: false

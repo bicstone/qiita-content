@@ -1,14 +1,14 @@
 ---
-title: "オブジェクト URL を File または Blob オブジェクトに変換する方法"
+title: オブジェクト URL を File または Blob オブジェクトに変換する方法
 tags:
-  - "Programming"
-  - "JavaScript"
-  - "blob"
-  - "XMLHttpRequest"
-  - "fetch"
+  - JavaScript
+  - プログラミング
+  - blob
+  - XMLHttpRequest
+  - fetch
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-03T20:26:26+09:00"
+id: 5796124885a3ea92adc2
 organization_url_name: null
 slide: false
 ignorePublish: false
