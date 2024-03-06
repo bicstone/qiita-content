@@ -1,12 +1,12 @@
 ---
-title: "WordPress ショートコードで自サイトの他の記事をそのまま挿入"
+title: WordPress ショートコードで自サイトの他の記事をそのまま挿入
 tags:
-  - "Programming"
-  - "PHP"
-  - "WordPress"
+  - PHP
+  - WordPress
+  - プログラミング
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-06T14:42:07+09:00"
+id: fc1fdcad5dcd4e150ebd
 organization_url_name: null
 slide: false
 ignorePublish: false
