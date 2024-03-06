@@ -16,6 +16,8 @@ ignorePublish: false
 
 [/packer/](http://dean.edwards.name/packer/)でBase62エンコードしたJavaScriptコードをデコード(復号)するツールです。
 
+※ これは2016-04-19に個人ブログで公開した記事を移植したものです。
+
 ## デコードツール
 
 `eval(function(p,a,c,k,e,r){e=function(c){return(` で始まるコードをコピペしてDecodeボタンを押してください。すべてブラウザで処理され、サーバーには送信されませんのでご安心ください。
