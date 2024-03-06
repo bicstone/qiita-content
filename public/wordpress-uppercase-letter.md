@@ -1,14 +1,14 @@
 ---
-title: "CSSで勝手に英語大文字になってしまう原因と対処法"
+title: CSSで勝手に英語大文字になってしまう原因と対処法
 tags:
-  - "Programming"
-  - "WordPress"
-  - "PHP"
-  - "CSS"
-  - "HTML"
+  - PHP
+  - HTML
+  - CSS
+  - WordPress
+  - プログラミング
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-06T14:42:00+09:00"
+id: 6c4f86383b4b275209f0
 organization_url_name: null
 slide: false
 ignorePublish: false
