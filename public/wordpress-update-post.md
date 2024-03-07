@@ -1,12 +1,12 @@
 ---
-title: "WordPressの記事をPHPから更新だけ行う方法"
+title: WordPressの記事をPHPから更新だけ行う方法
 tags:
-  - "WordPress"
-  - "PHP"
-  - "Programming"
+  - PHP
+  - WordPress
+  - プログラミング
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-07T23:28:52+09:00"
+id: a05d609910a650825e60
 organization_url_name: null
 slide: false
 ignorePublish: false
