@@ -6,7 +6,7 @@ tags:
   - batch
   - cmd
 private: false
-updated_at: "2024-03-07T23:28:55+09:00"
+updated_at: "2024-03-07T23:33:04+09:00"
 id: 54a0345880b705580cf5
 organization_url_name: null
 slide: false
