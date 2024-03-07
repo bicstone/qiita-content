@@ -1,14 +1,13 @@
 ---
-title: "バッチファイル自身に自動アップデート機能を搭載する方法"
+title: バッチファイル自身に自動アップデート機能を搭載する方法
 tags:
-  - "Programming"
-  - "Windows"
-  - "Batch"
-  - "cmd"
-  - "バッチ"
+  - Windows
+  - プログラミング
+  - batch
+  - cmd
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-07T23:28:55+09:00"
+id: 54a0345880b705580cf5
 organization_url_name: null
 slide: false
 ignorePublish: false

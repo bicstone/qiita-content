@@ -1,14 +1,14 @@
 ---
-title: "「Invalid Certificate Chain」エラーが発生した場合の対処法"
+title: 「Invalid Certificate Chain」エラーが発生した場合の対処法
 tags:
-  - "SSL"
-  - "TLS"
-  - "さくらのレンタルサーバ"
-  - "独自SSL"
-  - "中間証明書"
+  - SSL
+  - TLS
+  - さくらのレンタルサーバ
+  - 中間証明書
+  - 独自SSL
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-07T23:28:52+09:00"
+id: d1b463f8c4792abc9808
 organization_url_name: null
 slide: false
 ignorePublish: false
