@@ -16,7 +16,7 @@ ignorePublish: false
 
 Djangoでdatatablesのサーバー連携を使用できるdjango_datatables_viewで、1ページあたり100件を超えるレコードがすべて表示できない不具合の対処法を紹介します。とてもわかりにくい不具合になっており、目視だと気が付かない可能性があります。
 
-※ これは2021/03/28に個人ブログで公開した記事を移植したものです。
+※ これは2021/03/28に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
 
 ## django_datatables_view について
 

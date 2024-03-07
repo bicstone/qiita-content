@@ -16,7 +16,7 @@ ignorePublish: false
 
 [/packer/](http://dean.edwards.name/packer/)でBase62エンコードしたJavaScriptコードをデコード(復号)するツールです。
 
-※ これは2016-04-19に個人ブログで公開した記事を移植したものです。
+※ これは2016-04-19に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
 
 ## デコードツール
 
