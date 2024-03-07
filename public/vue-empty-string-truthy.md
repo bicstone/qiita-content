@@ -6,7 +6,7 @@ tags:
   - Vue.js
   - vue2
 private: false
-updated_at: "2024-02-25T16:28:20+09:00"
+updated_at: "2024-03-07T23:33:04+09:00"
 id: 0bca7652fa65c5f5e85d
 organization_url_name: null
 slide: false
