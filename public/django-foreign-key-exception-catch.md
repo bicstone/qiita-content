@@ -14,7 +14,7 @@ ignorePublish: false
 
 Djangoで汎用View `django.views.generic.DeleteView` を用いた削除時に外部キー制約によってProtectedErrorの例外が発生するのをキャッチする方法を紹介します。
 
-※ これは2020/02/05に個人ブログで公開した記事を移植したものです。
+※ これは2020/02/05に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
 
 ## PROTECT されている場合に削除しようとする場合の挙動
 

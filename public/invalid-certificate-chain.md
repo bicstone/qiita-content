@@ -18,7 +18,7 @@ Qualys SSL LabsのSSL Server Testで「Invalid Certificate Chain」エラーが�
 
 https://www.ssllabs.com/ssltest/
 
-※ これは2016-08-26に個人ブログで公開した記事を移植したものです。
+※ これは2016-08-26に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
 
 ## 原因
 

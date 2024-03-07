@@ -16,7 +16,7 @@ ignorePublish: false
 
 JavaScriptのオブジェクトURLをFileオブジェクトまたはBlobオブジェクトに戻す(変換する)方法を紹介します。 `URL.createObjectURL()` の逆を行います。
 
-※ これは2020-02-04に個人ブログで公開した記事を移植したものです。
+※ これは2020-02-04に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
 
 ## オブジェクト URL とは
 

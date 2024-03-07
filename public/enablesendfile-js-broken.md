@@ -16,7 +16,7 @@ ignorePublish: false
 
 Vagrant (VirtualBox) + Apache + webpackでコンパイルされたJavaScriptやCSSが途中で途切れて壊れる場合の対処法を紹介します。
 
-※ これは2020-02-02に個人ブログで公開した記事を移植したものです。
+※ これは2020-02-02に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
 
 ## gulp.js の watch モードで JS が壊れる
 

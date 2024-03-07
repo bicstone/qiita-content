@@ -16,7 +16,7 @@ ignorePublish: false
 
 Vagrant + VirtualBoxでApacheを動かすと、 `DocumentRoot is not a directory, or is not readable` で自動起動せずに強制終了してしまい、手動でのサービス再起動が必要になってしまいます。Apacheを強制終了しないようにする方法を紹介します。
 
-※ これは2020-02-11に個人ブログで公開した記事を移植したものです。
+※ これは2020-02-11に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
 
 ## 強制終了してしまう
 

@@ -16,7 +16,7 @@ ignorePublish: false
 
 Windows + Vagrant + VirtualBoxでLaravelを動かすと、ローディングにかなりの時間がかかって仕事が進まなかったという問題の対処方法を紹介します。NFSを使用する方法です。
 
-※ これは2020-02-01に個人ブログで公開した記事を移植したものです。
+※ これは2020-02-01に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
 
 ## Virtual Box の共有フォルダ機能は遅い
 
