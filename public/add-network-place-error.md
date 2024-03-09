@@ -1,13 +1,12 @@
 ---
-title: "「発行先の共有が必要です。」エラーの対処方法"
+title: 「発行先の共有が必要です。」エラーの対処方法
 tags:
-  - "Windows"
-  - "ネットワーク"
-  - "エラー"
-
+  - Windows
+  - Network
+  - error
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-09T15:55:24+09:00"
+id: d44645f94592a393978d
 organization_url_name: null
 slide: false
 ignorePublish: false
@@ -32,10 +31,10 @@ ignorePublish: false
 「ネットワークドライブの割り当て」を使用します。「別の資格情報を使用して接続する」を選択してください。
 
 1. エクスプローラーの「PC」→「コンピューター」→「ネットワークドライブの割り当て」を選択
-  ![エクスプローラーの「PC」→「コンピューター」→「ネットワークドライブの割り当て」を選択](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/684999/b1c55a52-464c-afe8-5f57-5274d6f8c1e4.png)
+   ![エクスプローラーの「PC」→「コンピューター」→「ネットワークドライブの割り当て」を選択](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/684999/b1c55a52-464c-afe8-5f57-5274d6f8c1e4.png)
 1. 「割り当てるネットワークフォルダーを選択してください」で「別の資格情報を使用して接続する」をオンにした状態で「完了」を選択
-  ![「割り当てるネットワークフォルダーを選択してください」で「別の資格情報を使用して接続する」をオンにした状態で「完了」を選択](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/684999/8f378dba-aac2-ea27-8552-e32f83e18d47.png)
+   ![「割り当てるネットワークフォルダーを選択してください」で「別の資格情報を使用して接続する」をオンにした状態で「完了」を選択](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/684999/8f378dba-aac2-ea27-8552-e32f83e18d47.png)
 1. Windowsセキュリティ」の「ネットワーク資格情報の入力」でIDとパスワードを登録する
-  ![「Windowsセキュリティ」の「ネットワーク資格情報の入力」でIDとパスワードを登録する](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/684999/f2087236-4857-ef4f-4dff-5747609a9a1a.png)
+   ![「Windowsセキュリティ」の「ネットワーク資格情報の入力」でIDとパスワードを登録する](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/684999/f2087236-4857-ef4f-4dff-5747609a9a1a.png)
 1. エクスプローラーPCの「ネットワークの場所」にドライブが追加される
-  ![エクスプローラーPCの「ネットワークの場所」にドライブが追加されます。](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/684999/f30e3228-b069-7cd1-0b4d-c737c3bdc05c.png)
+   ![エクスプローラーPCの「ネットワークの場所」にドライブが追加されます。](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/684999/f30e3228-b069-7cd1-0b4d-c737c3bdc05c.png)

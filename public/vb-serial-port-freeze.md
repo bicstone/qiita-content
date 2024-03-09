@@ -1,14 +1,14 @@
 ---
-title: "VBでシリアルポート通信した時にフリーズしてしまう対処方法"
+title: VBでシリアルポート通信した時にフリーズしてしまう対処方法
 tags:
-  - "Programming"
-  - "Windows"
-  - "VB"
-  - "SerialPort"
-  - "バッファオーバーフロー"
+  - Windows
+  - プログラミング
+  - serialport
+  - VB
+  - バッファオーバーフロー
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-09T15:55:24+09:00"
+id: e5e7bcc1add4bb86ce36
 organization_url_name: null
 slide: false
 ignorePublish: false

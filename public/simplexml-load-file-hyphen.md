@@ -1,12 +1,12 @@
 ---
-title: "simplexml_load_fileで要素名にハイフンがついていると読み込めない"
+title: simplexml_load_fileで要素名にハイフンがついていると読み込めない
 tags:
-  - "Programming"
-  - "PHP"
-  - "simplexml_load_file"
+  - PHP
+  - プログラミング
+  - simplexml_load_file
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-09T15:55:24+09:00"
+id: ece07d9b83efce1dd1c1
 organization_url_name: null
 slide: false
 ignorePublish: false

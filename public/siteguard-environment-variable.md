@@ -1,14 +1,14 @@
 ---
 title: SiteGuardを導入するとHTTP_ACCEPT_ENCODINGなどのHTTPヘッダが削除されてしまう件
 tags:
-  - "Programming"
-  - "PHP"
-  - "さくらのレンタルサーバ"
-  - "SiteGuard"
-  - "HTTP"
+  - PHP
+  - プログラミング
+  - HTTP
+  - さくらのレンタルサーバ
+  - SiteGuard
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-09T15:55:24+09:00"
+id: 3d88fb943d7f08eb3335
 organization_url_name: null
 slide: false
 ignorePublish: false
