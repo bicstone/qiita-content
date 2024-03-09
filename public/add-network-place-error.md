@@ -3,7 +3,9 @@ title: 「発行先の共有が必要です。」エラーの対処方法
 tags:
   - Windows
   - Network
-  - error
+  - 共有ドライブ
+  - samba
+  - smb
 private: false
 updated_at: "2024-03-09T15:55:24+09:00"
 id: d44645f94592a393978d

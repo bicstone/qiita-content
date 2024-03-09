@@ -3,9 +3,9 @@ title: wovn-ignoreを入れ忘れない方法
 tags:
   - CSS
   - プログラミング
-  - Web
   - wovn
   - wovn-ignore
+  - i18n
 private: false
 updated_at: "2024-03-07T23:33:04+09:00"
 id: 197350d50e79ac00bb8e

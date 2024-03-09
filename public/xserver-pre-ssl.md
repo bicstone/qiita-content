@@ -4,8 +4,8 @@ tags:
   - PHP
   - Apache
   - プログラミング
-  - Web
   - htaccess
+  - Xserver
 private: false
 updated_at: "2024-03-07T23:33:04+09:00"
 id: 25f86b63880214f5c96e
