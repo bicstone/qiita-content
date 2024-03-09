@@ -1,13 +1,13 @@
 ---
-title: "IISサーバへのFTPアクセスで「550 parameter is incorrect ftp」"
+title: IISサーバへのFTPアクセスで「550 parameter is incorrect ftp」
 tags:
-  - "Windows"
-  - "Web"
-  - "FTP"
-  - "IIS"
+  - Windows
+  - Web
+  - ftp
+  - IIS
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-09T15:55:24+09:00"
+id: 286f11196f3c973c56a3
 organization_url_name: null
 slide: false
 ignorePublish: false
