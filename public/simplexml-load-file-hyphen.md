@@ -4,6 +4,7 @@ tags:
   - PHP
   - プログラミング
   - simplexml_load_file
+  - XML
 private: false
 updated_at: "2024-03-09T15:55:24+09:00"
 id: ece07d9b83efce1dd1c1

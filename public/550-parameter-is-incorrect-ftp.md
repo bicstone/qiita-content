@@ -2,7 +2,6 @@
 title: IISサーバへのFTPアクセスで「550 parameter is incorrect ftp」
 tags:
   - Windows
-  - Web
   - ftp
   - IIS
 private: false
