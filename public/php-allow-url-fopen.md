@@ -5,7 +5,7 @@ tags:
   - curl
   - プログラミング
   - file_get_contents
-  - allow_url_fopen
+  - レンタルサーバー
 private: false
 updated_at: "2024-03-11T21:36:06+09:00"
 id: 42ed2bcae109504f2a52
