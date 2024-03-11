@@ -15,7 +15,11 @@ ignorePublish: false
 
 バッチファイル自身に自動アップデート機能を搭載する方法を紹介します。複数のPCの一括適用に便利です。
 
-※ これは2016-09-27に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2016-09-27に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## 需要
 

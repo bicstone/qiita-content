@@ -16,7 +16,11 @@ ignorePublish: false
 
 Pythonのzipfileライブラリはファイル名をUTF-8でエンコードするためWindowsのレガシーな解凍ソフトで解凍するとファイル名が文字化けします。ファイル名をShift-JISでエンコードする方法を紹介します。
 
-※ これは2019-07-18に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2019-07-18に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## 世の中には UTF-8 で文字化けする解凍ソフトが残っている
 

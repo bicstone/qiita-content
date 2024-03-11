@@ -15,7 +15,11 @@ ignorePublish: false
 
 Real-Time Find and Replaceプラグインでの置換が適用されないときの対象方法を紹介します。
 
-※ これは2016-09-26に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2016-09-26に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## プラグインの概要
 

@@ -16,7 +16,11 @@ ignorePublish: false
 
 Windows Vistaや7などで見られる、「Notification.dll登録されていません。プログラムは正常に動作しません」の対処方法の1つを紹介します。
 
-※ これは2016-10-22に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2016-10-22に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## 原因
 

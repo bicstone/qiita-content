@@ -15,7 +15,11 @@ ignorePublish: false
 
 DockerがESET Endpoint Protectionのファイアウォールの影響で「Firewall Detected」エラーが発生し、ファイル共有が一切できなくなる問題の対処方法を掲載しています。
 
-※ これは2019-07-15に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2019-07-15に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## Docker でファイルマウントができない
 

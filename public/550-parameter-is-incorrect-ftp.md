@@ -14,6 +14,12 @@ ignorePublish: false
 
 IISサーバへのFTPアクセスで `550 parameter is incorrect ftp` が発生した場合の対処方法の1つを紹介します。
 
+:::note warn
+
+※ これは2016-10-29に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
+
 ## 現象
 
 IISで動かしているFTPサーバへとあるFTPソフトで接続し、削除をしたところ、 `550 parameter is incorrect ftp` エラーが発生して削除コマンドが無視されてしまいました。

@@ -15,7 +15,11 @@ ignorePublish: false
 
 数年前に作られていたvue 2 (TypeScriptなし) のプロダクトで空文字がPropで渡ってきてバグってしまった話と、注意点を備忘録として残します。
 
-※ これは2022/12/05に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2022/12/05に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## 背景
 

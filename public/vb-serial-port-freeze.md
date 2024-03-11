@@ -16,7 +16,11 @@ ignorePublish: false
 
 VBでシリアルポート通信した時にフリーズしてしまう場合の対処方法の1つを紹介します。
 
-※ これは2016-10-29に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2016-10-29に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## 現象
 

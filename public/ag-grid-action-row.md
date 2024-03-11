@@ -18,7 +18,11 @@ AG-Gridでテーブルのヘッダー行の下にアクションができる固�
 
 (React版v28を使用しています。)
 
-※ これは2022/12/13に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2022/12/13に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## ヘッダー行の下にアクションができる行とは？
 
