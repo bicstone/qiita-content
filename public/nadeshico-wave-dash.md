@@ -7,7 +7,7 @@ tags:
   - Shift-JIS
   - Nadesiko
 private: false
-updated_at: "2024-03-09T15:55:23+09:00"
+updated_at: "2024-03-11T21:30:21+09:00"
 id: 925b8a6df4c2faaca10a
 organization_url_name: null
 slide: false

@@ -7,7 +7,7 @@ tags:
   - Vagrant
   - Laravel
 private: false
-updated_at: "2024-03-07T23:33:05+09:00"
+updated_at: "2024-03-11T21:30:22+09:00"
 id: 5e07bd7b29c8c95721f4
 organization_url_name: null
 slide: false
