@@ -1,13 +1,13 @@
 ---
-title: "【WordPress】「次回のコメントで使用するため…」を削除する方法"
+title: 【WordPress】「次回のコメントで使用するため…」を削除する方法
 tags:
-  - "Programming"
-  - "WordPress"
-  - "PHP"
-  - "GDPR"
+  - PHP
+  - WordPress
+  - プログラミング
+  - gdpr
 private: false
-updated_at: ""
-id: null
+updated_at: "2024-03-11T21:36:06+09:00"
+id: 19fa23e68a03cad425dd
 organization_url_name: null
 slide: false
 ignorePublish: false

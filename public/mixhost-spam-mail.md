@@ -1,14 +1,14 @@
 ---
-title: "mixhostでスパムメールが大量に送られるときの対処法"
+title: mixhostでスパムメールが大量に送られるときの対処法
 tags:
-  - "MixHost"
-  - "cPanel"
+  - mail
   - レンタルサーバー
-  - "メール"
-  - "スパム"
+  - スパム
+  - cPanel
+  - mixhost
 private: false
-updated_at: ""
-id: null
+updated_at: "2024-03-11T21:36:06+09:00"
+id: 4412f2d4aa0e74fd7ceb
 organization_url_name: null
 slide: false
 ignorePublish: false
