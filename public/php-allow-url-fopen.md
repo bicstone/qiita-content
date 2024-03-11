@@ -1,14 +1,14 @@
 ---
-title: "allow_url_fopenが0のサーバーで外部ファイルを取得する方法"
+title: allow_url_fopenが0のサーバーで外部ファイルを取得する方法
 tags:
-  - "Programming"
-  - "PHP"
-  - "cURL"
-  - "file_get_contents"
-  - "allow_url_fopen"
+  - PHP
+  - curl
+  - プログラミング
+  - file_get_contents
+  - allow_url_fopen
 private: false
-updated_at: ""
-id: null
+updated_at: "2024-03-11T21:36:06+09:00"
+id: 42ed2bcae109504f2a52
 organization_url_name: null
 slide: false
 ignorePublish: false

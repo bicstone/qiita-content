@@ -1,14 +1,14 @@
 ---
-title: "BitLockerを再ロックする方法"
+title: BitLockerを再ロックする方法
 tags:
-  - "Windows"
-  - "BitLocker"
-  - "バッチ"
+  - Windows
+  - PowerShell
+  - batch
+  - BitLocker
   - manage-bde
-  - "PowerShell"
 private: false
-updated_at: ""
-id: null
+updated_at: "2024-03-11T21:36:06+09:00"
+id: e968f50f70a4d595f0d5
 organization_url_name: null
 slide: false
 ignorePublish: false
