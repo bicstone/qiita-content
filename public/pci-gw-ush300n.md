@@ -20,7 +20,11 @@ Windows 8やWindows 8.1でも同様の方法で動作するはずです。
 
 追記:Windows 10 Anniversary Update及びCreators Updateした際に再インストールが必要になる可能性があるそうです。その際もこちらの方法で再インストールできます。
 
-※ これは2016-03-29に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2016-03-29に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## GW-USH300N はそのままでは Windows 10 で動作しない
 

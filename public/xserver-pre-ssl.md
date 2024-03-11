@@ -18,7 +18,11 @@ ignorePublish: false
 
 ※スクリーンショットはスターサーバーの管理画面ですが同じ業者であるエックスサーバーでも同様に設定可能です。
 
-※ これは2019-01-01に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2019-01-01に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## サイト公開しないと無料独自 SSL 設定ができない
 

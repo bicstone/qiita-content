@@ -16,7 +16,11 @@ ignorePublish: false
 
 「SiteGuard」を導入にすると一部のHTTPヘッダーがとれなくなります。意外と気付かず条件設定などにおいてハマってしまうことがあります。
 
-※ これは2016-09-28に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2016-09-28に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## 概要
 

@@ -16,7 +16,11 @@ ignorePublish: false
 
 AdBlockなどの広告ブロッカーを使用しているかをJavaScriptを用いて判定する方法です。
 
-※ これは2016-04-29に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2016-04-29に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## 広告ブロッカーを検知する仕組み
 

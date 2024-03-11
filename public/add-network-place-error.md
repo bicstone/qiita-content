@@ -16,7 +16,11 @@ ignorePublish: false
 
 ネットワークの場所の追加をする際に「発行先の共有が必要です。別の場所を試してください。」というエラーが発生した時の対処方法です。
 
-※ これは2016-10-25に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2016-10-25に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## 現象
 

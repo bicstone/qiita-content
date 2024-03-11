@@ -16,7 +16,11 @@ ignorePublish: false
 
 Webサイトの多言語化・翻訳対応を一任できるサービスWOVN.ioにおいて、個人情報や動的な数字がWOVNに送信されないように翻訳抽出対象外にするwovn-ignoreを設定し忘れない方法を紹介します。
 
-※ これは2021/03/29に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2021/03/29に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## WOVN.io について
 

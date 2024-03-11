@@ -16,7 +16,11 @@ ignorePublish: false
 
 WordPressがアップデートされてから、TinyMCEがTableタグに「width」と「height」を勝手に設定する機能が追加されました。レスポンシブデザインのサイトにおいて、この機能はむしろデザインを崩す原因となってしまいます。この機能を無効にする方法をご紹介します。
 
-※ これは2016-08-28に[個人ブログ](https://bicstone.me)で公開した記事を移植したものです。
+:::note warn
+
+※ これは2016-08-28に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
 
 ## 問題
 
