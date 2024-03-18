@@ -16,6 +16,12 @@ ignorePublish: false
 
 Chatworkは初期設定では本名で誰からでもアカウント検索ができてしまうのをご存知でしたか。本名での検索を無効にする方法を紹介します。
 
+:::note warn
+
+※ これは2020-02-09に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
+
 ## Chatwork
 
 Chatwork使っていますか？私は職場で導入されているので使っていました。
