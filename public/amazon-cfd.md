@@ -16,6 +16,12 @@ ignorePublish: false
 
 Amazonで購入したCFD販売製品を製品保証期間に故障したので交換してもらいました。スムーズに交換手順できたので紹介します。
 
+:::note warn
+
+※ これは2017-02-07に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
+
 ## 保証方法を確認
 
 どのような手順で無償交換をしてくれるかパッケージに貼られたシールを確認しました。
