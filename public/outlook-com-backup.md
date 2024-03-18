@@ -1,14 +1,14 @@
 ---
 title: outlook.com のメールをバックアップしてストレージを空ける方法
 tags:
-  - メール
-  - outlook
+  - mail
   - バックアップ
+  - Outlook
+  - sylpheed
   - mbox
-  - Sylpheed
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-19T00:04:35+09:00"
+id: 91a19495be26a27930ee
 organization_url_name: null
 slide: false
 ignorePublish: false

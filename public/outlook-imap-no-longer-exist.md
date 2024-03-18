@@ -1,14 +1,14 @@
 ---
 title: 「Some of the requested messages no longer exist」エラーの対処法
 tags:
-  - メール
-  - outlook
-  - IMAP
-  - エラー
-  - Thunderbird
+  - mail
+  - error
+  - imap
+  - thunderbird
+  - Outlook
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-19T00:04:35+09:00"
+id: 6c832e000bc15befe66c
 organization_url_name: null
 slide: false
 ignorePublish: false
