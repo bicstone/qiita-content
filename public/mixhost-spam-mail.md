@@ -34,11 +34,7 @@ MixHostにてログイン →cPanelにログインより、電子メール → �
 
 ![MixHostにてログイン→cPanelにログインより、電子メール→規定のアドレスを開きます。](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/684999/941f91db-1007-b3b7-dd11-c2c4889b251e.png)
 
-{/_<!-- textlint-disable ja-technical-writing/max-ten -->_/}
-
-すべてのドメインについて、「システム アカウント に転送します」から、「サーバーで処理が行われていても、電子メールをSMTP時間までに破棄し、エラー メッセージを生成します。」に変更して保存します。
-
-{/_<!-- textlint-enable -->_/}
+すべてのドメインについて、「システム アカウント に転送します」から、「サーバーで処理が行われていても電子メールをSMTP時間までに破棄し、エラー メッセージを生成します。」に変更して保存します。
 
 ![「システム アカウント に転送します」から、「サーバーで処理が行われていても、電子メールを SMTP 時間までに破棄し、エラー メッセージを生成します。」に変更して保存します。](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/684999/be27f2b9-8540-b69a-b5b9-60324d35adf4.png)
 
