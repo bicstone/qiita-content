@@ -16,6 +16,12 @@ ignorePublish: false
 
 2023年2月にoutlook.comメールのストレージがOneDriveと結合される変更が行われるのに従い、メールをPCに保存してストレージを空ける方法を解説します。
 
+:::note warn
+
+※ これは2023-02-04に[個人ブログ](https://bicstone.me)で公開した記事を移植し、[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)で提供しています。情報は古い可能性があります。
+
+:::
+
 ## 背景
 
 みなさんはoutlook.comを使用していますか？　私は初めて買ったiPhoneで唯一プッシュ通知に対応していたという経緯で、Hotmailからそのままoutlook.comを使用しています。無料プランでも、メール添付ファイル15 GBまで保存できる (メッセージは加算しない) という太っ腹なので、メールはすべて残しています。
