@@ -1,7 +1,11 @@
 ---
 title: ".gitattributes をもっと活用して GitHub 上での開発体験を向上させよう"
 tags:
-  - ""
+  - Git
+  - GitHub
+  - コードレビュー
+  - 開発体験
+  - .gitattributes
 private: false
 updated_at: ""
 id: null
