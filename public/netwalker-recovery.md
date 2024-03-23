@@ -1,14 +1,14 @@
 ---
-title: "NetWalker（PC-Z1）再インストール用イメージファイル"
+title: NetWalker（PC-Z1）再インストール用イメージファイル
 tags:
-  - NetWalker
-  - PC-Z1
-  - イメージファイル
   - Ubuntu
+  - Netwalker
   - リカバリー
+  - イメージファイル
+  - PC-Z1
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-23T18:51:06+09:00"
+id: ffd46d74450f18fff014
 organization_url_name: null
 slide: false
 ignorePublish: false
