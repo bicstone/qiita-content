@@ -1,14 +1,14 @@
 ---
-title: "Does My Browser Support WebGL?"
+title: Does My Browser Support WebGL?
 tags:
-  - WebGL
-  - 3D
-  - Graphics
-  - canvas
   - JavaScript
+  - WebGL
+  - canvas
+  - 3D
+  - graphics
 private: false
-updated_at: ""
-id: null
+updated_at: "2024-03-23T18:02:32+09:00"
+id: c572aae30cabb442caca
 organization_url_name: null
 slide: false
 ignorePublish: false

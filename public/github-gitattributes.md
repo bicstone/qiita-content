@@ -1,14 +1,14 @@
 ---
-title: ".gitattributes をもっと活用して GitHub 上での開発体験を向上させよう"
+title: .gitattributes をもっと活用して GitHub 上での開発体験を向上させよう
 tags:
   - Git
   - GitHub
   - コードレビュー
-  - 開発体験
   - .gitattributes
+  - 開発体験
 private: false
-updated_at: ""
-id: null
+updated_at: "2024-03-23T18:02:39+09:00"
+id: 6f22697d6fdf35f97b42
 organization_url_name: null
 slide: false
 ignorePublish: false
