@@ -1,14 +1,14 @@
 ---
-title: "TwitterのOGPカードが表示されないときの対処法"
+title: TwitterのOGPカードが表示されないときの対処法
 tags:
-  - x
   - Twitter
   - OGP
   - SEO
+  - X
   - SNS
 private: false
-updated_at: ''
-id: null
+updated_at: "2024-03-23T18:29:00+09:00"
+id: 1d73fee09ebfb8f0ec9f
 organization_url_name: null
 slide: false
 ignorePublish: false
