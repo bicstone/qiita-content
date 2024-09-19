@@ -7,7 +7,7 @@ tags:
   - actions
   - GitHubActions
 private: false
-updated_at: "2024-09-19T13:42:13+09:00"
+updated_at: "2024-09-19T13:48:52+09:00"
 id: c72d184d7327c7b1d649
 organization_url_name: null
 slide: false
