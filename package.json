@@ -4,14 +4,14 @@
   "version": "1.0.0",
   "description": "Content for Qiita by Oishi Takanori (Public)",
   "scripts": {
-    "lint": "pnpm run f --check && pnpm run m && pnpm run t:cache",
-    "lint:fix": "pnpm run f --write && pnpm run m --fix && pnpm run t --fix && pnpm run t:cache",
+    "lint": "npm run f -- --check && npm run m && npm run t:cache",
+    "lint:fix": "npm run f -- --write && npm run m -- --fix && npm run t -- --fix && npm run t:cache",
     "t": "textlint ./public/**/*.md",
     "t:cache": "textlint --cache ./public/**/*.md",
     "m": "markdownlint-cli2 ./public/**/*.md",
     "f": "prettier --cache ./public/**/*.md",
     "postinstall": "husky",
-    "preinstall": "npx only-allow pnpm"
+    "preinstall": "npx only-allow npm"
   },
   "repository": {
     "type": "git",
@@ -34,6 +34,5 @@
   },
   "volta": {
     "node": "20.17.0"
-  },
-  "packageManager": "pnpm@9.11.0"
+  }
 }
