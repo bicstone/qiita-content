@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "description": "Content for Qiita by Oishi Takanori (Public)",
   "scripts": {
-    "lint": "pnpm run f -- --check && pnpm run m && pnpm run t:cache",
-    "lint:fix": "pnpm run f -- --write && pnpm run m -- --fix && pnpm run t -- --fix && pnpm run t:cache",
+    "lint": "pnpm run f --check && pnpm run m && pnpm run t:cache",
+    "lint:fix": "pnpm run f --write && pnpm run m --fix && pnpm run t --fix && pnpm run t:cache",
     "t": "textlint ./public/**/*.md",
     "t:cache": "textlint --cache ./public/**/*.md",
     "m": "markdownlint-cli2 ./public/**/*.md",
