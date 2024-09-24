@@ -20,15 +20,18 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT_CHECKOUT }}
           fetch-depth: 0
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9.11.0
       - uses: actions/setup-node@v4
         with:
           node-version-file: ".node-version"
-          cache: "npm"
-      - run: npm ci
+          cache: "pnpm"
+      - run: pnpm install --frozen-lockfile
       - run: npx qiita publish --all
         env:
           QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
-      - run: npm run lint:fix
+      - run: pnpm run lint:fix
       - run: |
           git add ./public/*
           if ! git diff --staged --exit-code --quiet; then
