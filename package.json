@@ -24,10 +24,10 @@
     "@proofdict/textlint-rule-proofdict": "3.1.2",
     "@qiita/qiita-cli": "1.6.1",
     "husky": "9.1.7",
-    "markdownlint": "0.36.1",
-    "markdownlint-cli2": "0.15.0",
+    "markdownlint": "0.37.4",
+    "markdownlint-cli2": "0.17.2",
     "prettier": "3.4.2",
-    "textlint": "14.4.0",
+    "textlint": "14.4.2",
     "textlint-filter-rule-comments": "1.2.2",
     "textlint-rule-preset-ja-spacing": "2.4.3",
     "textlint-rule-preset-ja-technical-writing": "12.0.2"
