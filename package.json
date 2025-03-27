@@ -22,7 +22,7 @@
   "homepage": "https://github.com/bicstone/qiita-content#readme",
   "dependencies": {
     "@proofdict/textlint-rule-proofdict": "3.1.2",
-    "@qiita/qiita-cli": "1.6.1",
+    "@qiita/qiita-cli": "1.6.2",
     "husky": "9.1.7",
     "markdownlint": "0.37.4",
     "markdownlint-cli2": "0.17.2",
