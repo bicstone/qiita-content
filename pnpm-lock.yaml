@@ -12,8 +12,8 @@ importers:
         specifier: 3.1.2
         version: 3.1.2
       '@qiita/qiita-cli':
-        specifier: 1.7.0
-        version: 1.7.0
+        specifier: 1.8.0
+        version: 1.8.0
       husky:
         specifier: 9.1.7
         version: 9.1.7
@@ -127,8 +127,8 @@ packages:
   '@proofdict/types@3.1.0':
     resolution: {integrity: sha512-f8cxZ35ylr4n8TW/eUJ9KynEc484Tiocgl4a/ZZNS1dAH5G4vkJ+1AFw2ob/4dCiafy5tcue6TiZuWBFAmsS5g==}
 
-  '@qiita/qiita-cli@1.7.0':
-    resolution: {integrity: sha512-LnZbpOHvGpcURwRModKKtSVlbL/6M2lhJlLmZLeYY7gC7zcMhW6IHyIp6/5lIund2r7ctQvb3w4adFUOkWlhDQ==}
+  '@qiita/qiita-cli@1.8.0':
+    resolution: {integrity: sha512-DKrtkJxvkcUS3PlT6LzyGUnkHRkOlKgGemybqxdPvkawgjUE8uzy2WnMpWHQvqOgCJHLHMsf1+f1XdV8M1Wd7Q==}
     engines: {node: '>=20.0.0'}
     hasBin: true
 
@@ -2265,7 +2265,7 @@ snapshots:
 
   '@proofdict/types@3.1.0': {}
 
-  '@qiita/qiita-cli@1.7.0':
+  '@qiita/qiita-cli@1.8.0':
     dependencies:
       arg: 5.0.2
       boxen: 8.0.1
